@@ -1,8 +1,6 @@
 # Executive-KPI-Dashboard
 A dashboard for tracking executive KPIs.
 
-# Executive KPI Dashboard (Power BI)
-
 ## Overview
 This project demonstrates an executive-level KPI dashboard built using Power BI with real-world data modeling techniques.
 
@@ -15,13 +13,15 @@ This project demonstrates an executive-level KPI dashboard built using Power BI 
 ## Data Source
 - On-prem SQL Server (AdventureWorksDW2025)
 
+## Powerbi PBIX file
+![Project File PBIX](PBIX)
+
 ## Screenshots
+![Data Model](screenshots/data-model.jpg)
+![KPI Overview](screenshots/kpi.jpg)
+![Time Intelligence](screenshots/time%20Intelligence.jpg)
+![Partitions](screenshots/partitions.jpg)
 
-### Dashboard Overview
-![Overview](screenshots/overview.png)
-
-### KPI Trends
-![KPI](screenshots/kpi.png)
 
 ## Architecture
 - Star schema data model
